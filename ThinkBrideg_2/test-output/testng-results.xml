@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51655" started-at="2020-06-14T08:55:58Z" finished-at="2020-06-14T08:56:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51655" started-at="2020-06-14T08:55:58Z" finished-at="2020-06-14T08:56:50Z">
+      <class name="tutorial.Flight_List2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tutorial.Flight_List2@7920ba90]" name="setUp" is-config="true" duration-ms="5902" started-at="2020-06-14T08:55:58Z" finished-at="2020-06-14T08:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPhpTravel()[pri:0, instance:tutorial.Flight_List2@7920ba90]" name="testPhpTravel" duration-ms="45052" started-at="2020-06-14T08:56:04Z" finished-at="2020-06-14T08:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPhpTravel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tutorial.Flight_List2@7920ba90]" name="tearDown" is-config="true" duration-ms="668" started-at="2020-06-14T08:56:49Z" finished-at="2020-06-14T08:56:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tutorial.Flight_List2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
